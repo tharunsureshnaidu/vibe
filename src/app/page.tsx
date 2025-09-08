@@ -2,7 +2,7 @@
 const home= async() =>{
 
   return (
-    <div>
+    <div>sssssssssss
      hello
    
     </div>
